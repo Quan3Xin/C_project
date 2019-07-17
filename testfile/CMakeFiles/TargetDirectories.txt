@@ -1,0 +1,3 @@
+/Users/quan/Developer/C/testfile/CMakeFiles/rebuild_cache.dir
+/Users/quan/Developer/C/testfile/CMakeFiles/edit_cache.dir
+/Users/quan/Developer/C/testfile/CMakeFiles/linear_modeling.dir

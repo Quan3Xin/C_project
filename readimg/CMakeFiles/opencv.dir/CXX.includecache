@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/quan/Developer/c/readimg/readimg.cpp
+iostream
+-
+opencv4/opencv2/core.hpp
+-
+opencv4/opencv2/opencv.hpp
+-
+opencv4/opencv2/highgui/highgui.hpp
+-
+

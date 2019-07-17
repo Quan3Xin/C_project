@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/quan/Developer/C/human/sortc.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+pthread.h
+-
+string.h
+-
+math.h
+-
+time.h
+-
+
